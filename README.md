@@ -20,3 +20,12 @@ ST-LINK Pin 4 (SWCLK) → Pin SWCLK (PA14) J4 del microcontrolador.
 PA2 (USART2_TX): Este pin se utiliza para la transmisión de datos.
 PA3 (USART2_RX): Este pin se utiliza para la recepción de datos.
 ```
+### Pines de entradas digitales 
+```
+X0 → PA0
+X1 → PB3
+X2 → PB4
+X3 → PA10
+X4 → PA9
+X5 → PA8
+```
