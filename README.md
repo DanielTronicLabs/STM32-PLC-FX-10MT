@@ -38,8 +38,8 @@ Y3 → PB14
 ```
 ### Pulsadores en la pantalla 
 ```
--      → PB6
-+      → PB7
-↓      → PB8
 ↑/SET  → PB9
+↓      → PB8
++      → PB7
+-      → PB6
 ```
