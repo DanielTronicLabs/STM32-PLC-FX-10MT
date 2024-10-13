@@ -5,6 +5,12 @@ Programación de un plc fx-10mt basado en el microcontrolador STM32F051C8T6 desd
 ![Controller](FX-10MT-IO.png)
 ![Controller](FX-10MT-BOARD.png)
 
-## Mapa de pines de entradas y salidas.
+## Identificacion de los pines I/0
 
 ### Pines de programacion
+Conexiones estándar entre el ST-LINK y el STM32F051C8T6:
+ST-LINK Pin 1 (VCC) → Pin VDD del microcontrolador (3.3V).
+ST-LINK Pin 2 (SWDIO) → Pin SWDIO (PA13) J2 del microcontrolador .
+ST-LINK Pin 3 (GND) → Pin GND del microcontrolador.
+ST-LINK Pin 4 (SWCLK) → Pin SWCLK (PA14) J4 del microcontrolador.
+
