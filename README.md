@@ -36,3 +36,10 @@ Y1 → PA7
 Y2 → PB15
 Y3 → PB14
 ```
+### Pulsadores en la pantalla 
+```
+- → PB6
++ → PB7
+DOWN → PB8
+SET → PB9
+```
