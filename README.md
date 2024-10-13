@@ -29,6 +29,11 @@ X3 → PA10
 X4 → PA9
 X5 → PA8
 ```
+### Entradas analogas
+```
+AD0  → PA5
+AD1  → PA7
+```
 ### Salidas digitales 
 ```
 Y0 → PA4
@@ -43,3 +48,4 @@ Y3 → PB14
 +      → PB7
 -      → PB6
 ```
+
