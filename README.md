@@ -15,3 +15,8 @@ ST-LINK Pin 2 (SWDIO) → Pin SWDIO (PA13) J2 del microcontrolador .
 ST-LINK Pin 3 (GND) → Pin GND del microcontrolador.
 ST-LINK Pin 4 (SWCLK) → Pin SWCLK (PA14) J4 del microcontrolador.
 ```
+### Pines de comunicacion serial
+```
+PA2 (USART2_TX): Este pin se utiliza para la transmisión de datos.
+PA3 (USART2_RX): Este pin se utiliza para la recepción de datos.
+```
