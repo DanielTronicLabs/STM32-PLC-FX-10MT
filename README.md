@@ -3,6 +3,7 @@ Programación de un plc FX-10MT basado en el microcontrolador STM32F051C8T6 desd
 
 ![Controller](FX-10MT.png)
 ![Controller](FX-10MT-IO.png)
+![Controller](FX-10MT-CON.png)
 ![Controller](FX-10MT-BOARD.png)
 
 ## Identificacion de los pines I/0
