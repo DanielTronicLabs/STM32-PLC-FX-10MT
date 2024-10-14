@@ -51,7 +51,7 @@ Y3 → PB14
 ### Alarma sonora
 ``
 Buzzer  → PA1
-```
+``
 ### Control display 7 segmentos
 ```
 El TM1640 es un controlador de visualización LED de 16 segmentos que se utiliza
