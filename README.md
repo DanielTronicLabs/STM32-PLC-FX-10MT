@@ -55,8 +55,7 @@ El TM1640 es un controlador de visualización LED de 16 segmentos que se utiliza
 comúnmente para controlar pantallas LED matriciales o segmentos de 7 segmentos.
 DIN   → PB11
 SCLK  → PB10
-![Controller](TM1640.png)
 ```
-
+![Controller](TM1640.png)
 
 
