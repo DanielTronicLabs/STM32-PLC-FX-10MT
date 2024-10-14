@@ -51,7 +51,8 @@ Y3 → PB14
 ```
 ### Control display 7 segmentos
 ```
-El TM1640 es un controlador de visualización LED de 16 segmentos que se utiliza comúnmente para controlar pantallas LED matriciales o segmentos de 7 segmentos
+El TM1640 es un controlador de visualización LED de 16 segmentos que se utiliza
+comúnmente para controlar pantallas LED matriciales o segmentos de 7 segmentos.
 ↑/SET  → PB9
 ↓      → PB8
 +      → PB7
