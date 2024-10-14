@@ -29,7 +29,7 @@ X3 → PA10
 X4 → PA9
 X5 → PA8
 ```
-### Entradas analogas 0-5v
+### Entradas analogas 0-10v
 ```
 AD0  → PA5
 AD1  → PA7
