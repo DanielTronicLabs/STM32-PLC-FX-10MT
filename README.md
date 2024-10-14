@@ -57,7 +57,6 @@ SCLK  → PB10
 ```
 ![Controller](TM1640.png)
 
-### Control display 7 segmentos
-```
+### 
 https://es.aliexpress.com/item/1005003082636969.html?spm=a2g0o.best.moretolove.5.334122aeVh766G&pdp_npi=4%40dis%21AUD%21AU%2488.78%21AU%2444.39%21%21%21%21%21%402101ef5e17289413069077695e53e4%2112000023974354903%21btf%21%21%21&_gl=1*81aa3y*_gcl_au*MjA1Njg5ODExMC4xNzIxMjYzMDYw*_ga*MTI5MDg4Mzc4Mi4xNzA1MzI5ODAy*_ga_VED1YSGNC7*MTcyODk0MTMyMS4zNi4wLjE3Mjg5NDEzMjEuNjAuMC4w&gatewayAdapt=glo2esp
-```
+
